@@ -1,13 +1,8 @@
 # lua-data
 
-diverse Neutrino Sat-Settings 28.2E, 23.5E, 19.2E, 13.0E, 16.0E, 9.0E
+diverse Neutrino Sat-Settings 28.2E, 23.5E, 19.2E, 16.0E, 13.0E, 9.0E
 
-        Neutrino Kabel-Settings Vodafone (vormals UnityMedia)
-
-gescant im Westen von NRW....
-
-
-# Anleitung lua Plugin:
+ # Anleitung lua Plugin:
 
  wegen Sicherheitsänderungen auf github, kann es sein das die Settings nicht ladbar sind,
 
@@ -26,9 +21,7 @@ gescant im Westen von NRW....
 
  Sat-Settings bestehen aus satellites.xml, bouquets.xml und service.xml
 
- Kabel-Settings bestehen aus cables.xml, bouquets.xml und service.xml
-
  keine ubouquets.xml enthalten, denn da gibt es zuviele Geschmäcker :)
 
 
-05.09.2025
+29.11.2025

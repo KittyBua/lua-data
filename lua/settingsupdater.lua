@@ -88,7 +88,6 @@ function create_settingupdater_cfg()
 	file:write("16.0E=0", "\n")
 	file:write("13.0E=0", "\n")
 	file:write("9.0E=0", "\n")
-	file:write("Vodafone=0", "\n")
 	file:write("use_git=0", "\n")
 	file:close()
 end
@@ -215,7 +214,6 @@ function start_update()
 	if (get_cfg_value("16.0E") == 1) then table.insert (positions, "16.0E"); have_sat = 1 end
 	if (get_cfg_value("13.0E") == 1) then table.insert (positions, "13.0E"); have_sat = 1 end
 	if (get_cfg_value("9.0E") == 1) then table.insert (positions, "9.0E"); have_sat = 1 end
-	if (get_cfg_value("Vodafone") == 1) then table.insert (positions, "Vodafone"); have_cable = 1 end
 	table.insert (positions, "end")
 
 	bouquets = io.open(zapitdir .. "/bouquets.xml", 'w')
@@ -304,10 +302,6 @@ function eutelsata_cfg(k, v, str)
 	write_cfg(k, v, "9.0E")
 end
 
-function kab_cfg(k, v, str)
-	write_cfg(k, v, "Vodafone")
-end
-
 function use_git_cfg(k, v, str)
 	write_cfg(k, v, "use_git")
 end
@@ -346,11 +340,6 @@ function options ()
 		menu:addItem{type="chooser", action="eutelsata_cfg", options={on, off}, icon=7, directkey=RC["7"], name=locale[lang].cfg_install_a .. " 9.0E " .. locale[lang].cfg_install_b}
 	elseif (get_cfg_value("9.0E") == 0) then
 		menu:addItem{type="chooser", action="eutelsata_cfg", options={off, on}, icon=7, directkey=RC["7"], name=locale[lang].cfg_install_a .. " 9.0E " .. locale[lang].cfg_install_b}
-	end
-	if (get_cfg_value("Vodafone") == 1) then
-		menu:addItem{type="chooser", action="kab_cfg", options={on, off}, icon=yellow, directkey=RC["yellow"], name=locale[lang].cfg_install_a .. " Kabel " .. locale[lang].cfg_install_b}
-	elseif (get_cfg_value("Vodafone") == 0) then
-		menu:addItem{type="chooser", action="kab_cfg", options={off, on}, icon=yellow, directkey=RC["yellow"], name=locale[lang].cfg_install_a .. " Kabel " .. locale[lang].cfg_install_b}
 	end
 	if (get_cfg_value("use_git") == 1) then
 		menu:addItem{type="chooser", action="use_git_cfg", options={on, off}, icon=blue, directkey=RC["blue"], name=locale[lang].cfg_git}

@@ -185,18 +185,6 @@
 	<Bouquet name="[E016.0] AUX C">
 		<S i="2" t="1" on="1" s="160" frq="12693" n="Quad SOGEI"/>
 	</Bouquet>
-	<Bouquet name="[E016.0] Digitalb">
-		<S i="a9c" t="9dd0" on="16e" s="160" frq="11283" n="360 TuneBox HD"/>
-		<S i="27f" t="c418" on="16e" s="160" frq="11471" n="Baby TV"/>
-		<S i="a90" t="9dd0" on="16e" s="160" frq="11283" n="Dizi HD"/>
-		<S i="aab" t="9dd0" on="16e" s="160" frq="11283" n="DocuBox HD"/>
-		<S i="aa6" t="9dd0" on="16e" s="160" frq="11283" n="FAST&amp;FUN Box HD"/>
-		<S i="a92" t="9dd0" on="16e" s="160" frq="11283" n="FightBox HD"/>
-		<S i="aaa" t="9dd0" on="16e" s="160" frq="11283" n="FilmBox Premium HD"/>
-		<S i="a91" t="9dd0" on="16e" s="160" frq="11283" n="Gametoon HD"/>
-		<S i="27d" t="c418" on="16e" s="160" frq="11471" n="ID Xtra HD"/>
-		<S i="27e" t="c418" on="16e" s="160" frq="11471" n="TLC"/>
-	</Bouquet>
 	<Bouquet name="[E016.0] DigitALB">
 		<S i="3fd" t="51a4" on="16e" s="160" frq="10887" n="24Kitchen"/>
 		<S i="ce4" t="5014" on="16e" s="160" frq="10804" n="A2 CNN"/>
@@ -283,6 +271,18 @@
 		<S i="399" t="5014" on="16e" s="160" frq="10804" n="My Music Radio"/>
 		<S i="708" t="4f4c" on="16e" s="160" frq="10762" n="Top Albania Radio"/>
 		<S i="71c" t="4f4c" on="16e" s="160" frq="10762" n="Top Gold Radio"/>
+	</Bouquet>
+	<Bouquet name="[E016.0] Digitalb">
+		<S i="a9c" t="9dd0" on="16e" s="160" frq="11283" n="360 TuneBox HD"/>
+		<S i="27f" t="c418" on="16e" s="160" frq="11471" n="Baby TV"/>
+		<S i="a90" t="9dd0" on="16e" s="160" frq="11283" n="Dizi HD"/>
+		<S i="aab" t="9dd0" on="16e" s="160" frq="11283" n="DocuBox HD"/>
+		<S i="aa6" t="9dd0" on="16e" s="160" frq="11283" n="FAST&amp;FUN Box HD"/>
+		<S i="a92" t="9dd0" on="16e" s="160" frq="11283" n="FightBox HD"/>
+		<S i="aaa" t="9dd0" on="16e" s="160" frq="11283" n="FilmBox Premium HD"/>
+		<S i="a91" t="9dd0" on="16e" s="160" frq="11283" n="Gametoon HD"/>
+		<S i="27d" t="c418" on="16e" s="160" frq="11471" n="ID Xtra HD"/>
+		<S i="27e" t="c418" on="16e" s="160" frq="11471" n="TLC"/>
 	</Bouquet>
 	<Bouquet name="[E016.0] Djemba IT C">
 		<S i="a38" t="427e" on="16e" s="160" frq="12568" n="Alfa Omega TV"/>

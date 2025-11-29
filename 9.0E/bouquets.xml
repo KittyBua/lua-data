@@ -61,15 +61,6 @@
 		<S i="35c" t="c35a" on="9e" s="90" frq="11727" n="DAB Radio Italian 1"/>
 		<S i="35d" t="c35a" on="9e" s="90" frq="11727" n="DAB Radio Italian 2"/>
 	</Bouquet>
-	<Bouquet name="[E009.0] GlobeCast">
-		<S i="26b" t="21" on="16" s="90" frq="11996" n="CCTV-4"/>
-		<S i="26f" t="21" on="16" s="90" frq="11996" n="CGTN Documentary"/>
-		<S i="26e" t="21" on="16" s="90" frq="11996" n="CGTN-A"/>
-		<S i="26c" t="21" on="16" s="90" frq="11996" n="CGTN-E"/>
-		<S i="26d" t="21" on="16" s="90" frq="11996" n="CGTN-R"/>
-		<S i="278" t="21" on="16" s="90" frq="11996" n="Euronews Russia"/>
-		<S i="277" t="21" on="16" s="90" frq="11996" n="EDM FM"/>
-	</Bouquet>
 	<Bouquet name="[E009.0] GLOBECAST">
 		<S i="cc" t="19c8" on="9e" s="90" frq="12034" n="6ter Suisse"/>
 		<S i="ca" t="19c8" on="9e" s="90" frq="12034" n="M6 Suisse"/>
@@ -78,6 +69,24 @@
 		<S i="163" t="19c8" on="9e" s="90" frq="12034" n="TV SAHEL"/>
 		<S i="cd" t="19c8" on="9e" s="90" frq="12034" n="W9 Suisse"/>
 		<S i="164" t="19c8" on="9e" s="90" frq="12034" n="La Voix Du Sahel"/>
+	</Bouquet>
+	<Bouquet name="[E009.0] Globecast">
+		<S i="26b" t="1900" on="9c" s="90" frq="11996" n="CCTV-4"/>
+		<S i="26f" t="1900" on="9c" s="90" frq="11996" n="CGTN Documentary"/>
+		<S i="26e" t="1900" on="9c" s="90" frq="11996" n="CGTN-A"/>
+		<S i="26c" t="1900" on="9c" s="90" frq="11996" n="CGTN-E"/>
+		<S i="26d" t="1900" on="9c" s="90" frq="11996" n="CGTN-R"/>
+		<S i="278" t="1900" on="9c" s="90" frq="11996" n="Euronews Russia"/>
+		<S i="277" t="1900" on="9c" s="90" frq="11996" n="EDM FM"/>
+	</Bouquet>
+	<Bouquet name="[E009.0] GlobeCast">
+		<S i="26b" t="21" on="16" s="90" frq="11996" n="CCTV-4"/>
+		<S i="26f" t="21" on="16" s="90" frq="11996" n="CGTN Documentary"/>
+		<S i="26e" t="21" on="16" s="90" frq="11996" n="CGTN-A"/>
+		<S i="26c" t="21" on="16" s="90" frq="11996" n="CGTN-E"/>
+		<S i="26d" t="21" on="16" s="90" frq="11996" n="CGTN-R"/>
+		<S i="278" t="21" on="16" s="90" frq="11996" n="Euronews Russia"/>
+		<S i="277" t="21" on="16" s="90" frq="11996" n="EDM FM"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] iKO Media Group">
 		<S i="364" t="c35a" on="9e" s="90" frq="11727" n="TIN - The Israeli Network - new"/>
