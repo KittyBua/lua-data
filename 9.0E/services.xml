@@ -58,7 +58,7 @@
 			<S i="0726" f="4" s="1" t="1" n="SISAL 3"/>
 			<S i="0730" f="4" s="1" t="1" n="SISAL 4"/>
 			<S i="073a" f="4" s="1" t="1" n="SISAL 5"/>
-			<S i="0744" f="1" s="0" t="16" n="Euronews"/>
+			<S i="0744" f="4" s="0" t="16" n="Euronews"/>
 			<S i="074e" f="4" s="0" t="1" n="Italy Service 3"/>
 			<S i="0762" f="4" s="0" t="1" n="Italy Service 5"/>
 			<S i="0780" f="4" s="0" t="16" n="AMC Ukr"/>
@@ -106,26 +106,27 @@
 			<S i="0017" f="4" s="0" t="16" n="RTB TV"/>
 			<S i="0018" f="4" s="0" t="1" n="RTB Radio"/>
 			<S i="0019" f="4" s="0" t="16" n="RTI1"/>
+			<S i="001e" f="1" s="0" t="16" n="Tele Sahel"/>
 			<S i="0065" f="2" s="0" t="16" n="TFM Senegal"/>
 			<S i="0067" f="4" s="1" t="16" n="JimJam ME"/>
 			<S i="0068" f="4" s="1" t="16" n="JimJam PE"/>
 			<S i="0073" f="4" s="1" t="1f" n="Rai Africa"/>
 			<S i="0074" f="4" s="0" t="16" n="BTV"/>
-			<S i="0078" f="1" s="0" t="2" n="AFN Atlantic Eagle"/>
-			<S i="0087" f="1" s="0" t="2" n="Aviano Eagle"/>
-			<S i="0088" f="1" s="0" t="2" n="Bavaria Eagle"/>
-			<S i="0089" f="1" s="0" t="2" n="Benelux Eagle"/>
-			<S i="008a" f="1" s="0" t="2" n="Incirlik Eagle"/>
-			<S i="008b" f="1" s="0" t="2" n="Kaiserslautern Eagle"/>
-			<S i="008c" f="1" s="0" t="2" n="Naples Eagle"/>
-			<S i="008d" f="1" s="0" t="2" n="Rota Eagle"/>
-			<S i="008e" f="1" s="0" t="2" n="Souda Bay Eagle"/>
-			<S i="008f" f="1" s="0" t="2" n="Spangdahlem Eagle"/>
-			<S i="0090" f="1" s="0" t="2" n="Stuttgart Eagle"/>
-			<S i="0091" f="1" s="0" t="2" n="Vicenza Eagle"/>
-			<S i="0092" f="1" s="0" t="2" n="Weisbaden Eagle"/>
-			<S i="0093" f="1" s="0" t="2" n="Bahrain"/>
-			<S i="0094" f="1" s="0" t="2" n="Sembach Afternoon Radio"/>
+			<S i="0078" f="4" s="0" t="2" n="AFN Atlantic Eagle"/>
+			<S i="0087" f="4" s="0" t="2" n="Aviano Eagle"/>
+			<S i="0088" f="4" s="0" t="2" n="Bavaria Eagle"/>
+			<S i="0089" f="4" s="0" t="2" n="Benelux Eagle"/>
+			<S i="008a" f="4" s="0" t="2" n="Incirlik Eagle"/>
+			<S i="008b" f="4" s="0" t="2" n="Kaiserslautern Eagle"/>
+			<S i="008c" f="4" s="0" t="2" n="Naples Eagle"/>
+			<S i="008d" f="4" s="0" t="2" n="Rota Eagle"/>
+			<S i="008e" f="4" s="0" t="2" n="Souda Bay Eagle"/>
+			<S i="008f" f="4" s="0" t="2" n="Spangdahlem Eagle"/>
+			<S i="0090" f="4" s="0" t="2" n="Stuttgart Eagle"/>
+			<S i="0091" f="4" s="0" t="2" n="Vicenza Eagle"/>
+			<S i="0092" f="4" s="0" t="2" n="Weisbaden Eagle"/>
+			<S i="0093" f="4" s="0" t="2" n="Bahrain"/>
+			<S i="0094" f="4" s="0" t="2" n="Sembach Afternoon Radio"/>
 			<S i="00e9" f="4" s="0" t="19" n="EBSHD"/>
 			<S i="01b1" f="4" s="0" t="19" n="EBS+HD"/>
 		</TS>
@@ -152,7 +153,7 @@
 			<S i="0459" f="4" s="1" t="1" n="Asharq News"/>
 			<S i="0460" f="4" s="1" t="1" n="COSMOTECinema2HD"/>
 			<S i="0461" f="4" s="1" t="1" n="FX Life"/>
-			<S i="0470" f="4" s="1" t="1" n="ERT WORLD"/>
+			<S i="0470" f="4" s="1" t="1" n="ERT COSMOS"/>
 			<S i="0472" f="4" s="1" t="1" n="Novasports5HD"/>
 			<S i="0473" f="4" s="1" t="1" n="Novasports6HD"/>
 		</TS>
@@ -160,22 +161,22 @@
 			<S i="0065" f="4" s="0" t="19" n="M1 HD"/>
 			<S i="0066" f="4" s="0" t="19" n="M2 HD"/>
 			<S i="0067" f="4" s="0" t="19" n="Duna HD"/>
-			<S i="0068" f="4" s="0" t="19" n="M4 Sport HD"/>
+			<S i="0068" f="4" s="1" t="19" n="M4 Sport HD"/>
 			<S i="0069" f="4" s="0" t="19" n="Duna World HD"/>
-			<S i="006a" f="4" s="0" t="19" n="M5 HD"/>
-			<S i="006f" f="4" s="0" t="19" n="M1 HD (Europa)"/>
-			<S i="0070" f="4" s="0" t="19" n="M2 HD (Europa)"/>
-			<S i="0071" f="4" s="0" t="19" n="Duna HD (Europa)"/>
-			<S i="0072" f="4" s="0" t="19" n="M4 Sport HD (Europa)"/>
-			<S i="0073" f="4" s="0" t="19" n="Duna World HD (Europa)"/>
-			<S i="0074" f="4" s="0" t="19" n="M5 HD (Europa)"/>
+			<S i="006a" f="4" s="1" t="19" n="M5 HD"/>
+			<S i="006f" f="4" s="1" t="19" n="M1 HD (Europa)"/>
+			<S i="0070" f="4" s="1" t="19" n="M2 HD (Europa)"/>
+			<S i="0071" f="4" s="1" t="19" n="Duna HD (Europa)"/>
+			<S i="0072" f="4" s="1" t="19" n="M4 Sport HD (Europa)"/>
+			<S i="0073" f="4" s="1" t="19" n="Duna World HD (Europa)"/>
+			<S i="0074" f="4" s="1" t="19" n="M5 HD (Europa)"/>
 			<S i="0097" f="4" s="0" t="2" n="Kossuth Radio (AAC)"/>
 			<S i="0098" f="4" s="0" t="2" n="Petofi Radio (AAC)"/>
 			<S i="0099" f="4" s="0" t="2" n="Bartok Radio (AAC)"/>
 			<S i="009a" f="4" s="0" t="2" n="Nemzetisegi Radio (AAC)"/>
 			<S i="009b" f="4" s="0" t="2" n="Parlamenti Radio (AAC)"/>
 			<S i="009c" f="4" s="0" t="2" n="Danko Radio (AAC)"/>
-			<S i="009d" f="1" s="0" t="2" n="NSR (AAC)"/>
+			<S i="009d" f="4" s="0" t="2" n="NSR (AAC)"/>
 			<S i="009e" f="4" s="0" t="2" n="Katolikus Radio (AAC)"/>
 			<S i="00a1" f="4" s="0" t="2" n="Kossuth Radio (L2)"/>
 			<S i="00a2" f="4" s="0" t="2" n="Petofi Radio (L2)"/>
@@ -193,7 +194,7 @@
 			<S i="01fb" f="4" s="1" t="19" n="Penthouse Passion HD"/>
 			<S i="01fc" f="4" s="1" t="19" n="Luxe TV HD"/>
 			<S i="01fd" f="4" s="1" t="19" n="Mezzo Live HD"/>
-			<S i="01fe" f="1" s="0" t="19" n="TVRI World"/>
+			<S i="01fe" f="4" s="0" t="19" n="TVRI World"/>
 			<S i="01ff" f="4" s="1" t="19" n="Curiosity Channel HD"/>
 			<S i="0200" f="4" s="1" t="1" n="Marco Polo TV"/>
 			<S i="0202" f="4" s="1" t="1" n="Gute Laune TV"/>
@@ -211,13 +212,13 @@
 			<S i="0278" f="4" s="0" t="1" n="Euronews Russia"/>
 		</TS>
 		<TS id="1900" on="009c" frq="11996000" inv="2" sr="27500000" fec="3" pol="1" mod="0" sys="0">
-			<S i="026b" f="1" s="0" t="1" n="CCTV-4"/>
-			<S i="026c" f="1" s="0" t="1" n="CGTN-E"/>
-			<S i="026d" f="1" s="0" t="1" n="CGTN-R"/>
-			<S i="026e" f="1" s="0" t="1" n="CGTN-A"/>
-			<S i="026f" f="1" s="0" t="1" n="CGTN Documentary"/>
-			<S i="0277" f="1" s="0" t="1" n="EDM FM"/>
-			<S i="0278" f="1" s="0" t="1" n="Euronews Russia"/>
+			<S i="026b" f="4" s="0" t="1" n="CCTV-4"/>
+			<S i="026c" f="4" s="0" t="1" n="CGTN-E"/>
+			<S i="026d" f="4" s="0" t="1" n="CGTN-R"/>
+			<S i="026e" f="4" s="0" t="1" n="CGTN-A"/>
+			<S i="026f" f="4" s="0" t="1" n="CGTN Documentary"/>
+			<S i="0277" f="4" s="0" t="1" n="EDM FM"/>
+			<S i="0278" f="3" s="0" t="1" n="Euronews Russia"/>
 		</TS>
 		<TS id="1964" on="009c" frq="12015000" inv="2" sr="27500000" fec="2" pol="0" mod="9" sys="1">
 			<S i="0196" f="4" s="1" t="19" n="SUPER RTL HD"/>
@@ -233,10 +234,12 @@
 			<S i="00ca" f="4" s="0" t="19" n="M6"/>
 			<S i="00cc" f="4" s="0" t="19" n="6TER"/>
 			<S i="00cd" f="4" s="0" t="19" n="W9"/>
+			<S i="015f" f="1" s="0" t="1" n="TELE CONGO HD"/>
+			<S i="0160" f="1" s="0" t="1" n="RADIO CONGO"/>
 			<S i="0161" f="4" s="0" t="1" n="PHOENIX INFO NEWS"/>
 			<S i="0162" f="4" s="0" t="16" n="ORTM"/>
-			<S i="0163" f="4" s="0" t="16" n="TV SAHEL"/>
-			<S i="0164" f="4" s="0" t="2" n="LA VOIX DU SAHEL"/>
+			<S i="0163" f="2" s="0" t="16" n="TV SAHEL"/>
+			<S i="0164" f="2" s="0" t="2" n="LA VOIX DU SAHEL"/>
 		</TS>
 		<TS id="0002" on="00aa" frq="12054000" inv="2" sr="27500000" fec="2" pol="0" mod="9" sys="1">
 			<S i="03e9" f="4" s="1" t="1" n="AEK SL Pass"/>

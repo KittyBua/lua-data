@@ -22,9 +22,6 @@
 		<S i="67" t="170c" on="9e" s="90" frq="11900" n="JimJam ME"/>
 		<S i="68" t="170c" on="9e" s="90" frq="11900" n="JimJam PE"/>
 	</Bouquet>
-	<Bouquet name="[E009.0] ARQIVA">
-		<S i="460" t="1af4" on="9e" s="90" frq="12092" n="NTDTV"/>
-	</Bouquet>
 	<Bouquet name="[E009.0] Arqiva">
 		<S i="49c" t="1af4" on="9e" s="90" frq="12092" n="BBC AM Dist1"/>
 		<S i="4a1" t="1af4" on="9e" s="90" frq="12092" n="BBC AM Dist2"/>
@@ -39,6 +36,9 @@
 		<S i="497" t="1af4" on="9e" s="90" frq="12092" n="talkSPORT Dist"/>
 		<S i="4a6" t="1af4" on="9e" s="90" frq="12092" n="BBC AM Dist3"/>
 		<S i="483" t="1af4" on="9e" s="90" frq="12092" n="Premier Radio"/>
+	</Bouquet>
+	<Bouquet name="[E009.0] ARQIVA">
+		<S i="460" t="1af4" on="9e" s="90" frq="12092" n="NTDTV"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] BASIS 1">
 		<S i="ec" t="1644" on="9c" s="90" frq="11861" n="BBC News"/>
@@ -80,15 +80,6 @@
 		<S i="35c" t="c35a" on="9e" s="90" frq="11727" n="DAB Radio Italian 1"/>
 		<S i="35d" t="c35a" on="9e" s="90" frq="11727" n="DAB Radio Italian 2"/>
 	</Bouquet>
-	<Bouquet name="[E009.0] GLOBECAST">
-		<S i="cc" t="19c8" on="9e" s="90" frq="12034" n="6TER"/>
-		<S i="ca" t="19c8" on="9e" s="90" frq="12034" n="M6"/>
-		<S i="162" t="19c8" on="9e" s="90" frq="12034" n="ORTM"/>
-		<S i="161" t="19c8" on="9e" s="90" frq="12034" n="PHOENIX INFO NEWS"/>
-		<S i="163" t="19c8" on="9e" s="90" frq="12034" n="TV SAHEL"/>
-		<S i="cd" t="19c8" on="9e" s="90" frq="12034" n="W9"/>
-		<S i="164" t="19c8" on="9e" s="90" frq="12034" n="LA VOIX DU SAHEL"/>
-	</Bouquet>
 	<Bouquet name="[E009.0] GlobeCast">
 		<S i="26b" t="21" on="16" s="90" frq="11996" n="CCTV-4"/>
 		<S i="26b" t="1900" on="9c" s="90" frq="11996" n="CCTV-4"/>
@@ -104,6 +95,15 @@
 		<S i="278" t="21" on="16" s="90" frq="11996" n="Euronews Russia"/>
 		<S i="278" t="1900" on="9c" s="90" frq="11996" n="Euronews Russia"/>
 		<S i="277" t="21" on="16" s="90" frq="11996" n="EDM FM"/>
+	</Bouquet>
+	<Bouquet name="[E009.0] GLOBECAST">
+		<S i="cc" t="19c8" on="9e" s="90" frq="12034" n="6TER"/>
+		<S i="ca" t="19c8" on="9e" s="90" frq="12034" n="M6"/>
+		<S i="162" t="19c8" on="9e" s="90" frq="12034" n="ORTM"/>
+		<S i="161" t="19c8" on="9e" s="90" frq="12034" n="PHOENIX INFO NEWS"/>
+		<S i="163" t="19c8" on="9e" s="90" frq="12034" n="TV SAHEL"/>
+		<S i="cd" t="19c8" on="9e" s="90" frq="12034" n="W9"/>
+		<S i="164" t="19c8" on="9e" s="90" frq="12034" n="LA VOIX DU SAHEL"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] iKO Media Group">
 		<S i="364" t="c35a" on="9e" s="90" frq="11727" n="TIN - The Israeli Network - new"/>
@@ -195,7 +195,7 @@
 		<S i="403" t="6" on="aa" s="90" frq="12399" n="Disney Junior"/>
 		<S i="425" t="5" on="aa" s="90" frq="12284" n="DORCEL XXX"/>
 		<S i="436" t="5" on="aa" s="90" frq="12284" n="ENA Channel"/>
-		<S i="470" t="9" on="aa" s="90" frq="11938" n="ERT WORLD"/>
+		<S i="470" t="9" on="aa" s="90" frq="11938" n="ERT COSMOS"/>
 		<S i="465" t="8" on="aa" s="90" frq="12169" n="Euronews English"/>
 		<S i="438" t="2" on="aa" s="90" frq="12054" n="Euronews Greek"/>
 		<S i="43a" t="6" on="aa" s="90" frq="12399" n="France 24 En"/>
@@ -271,7 +271,13 @@
 	<Bouquet name="[E009.0] SBT">
 		<S i="18" t="170c" on="9e" s="90" frq="11900" n="RTB Radio"/>
 		<S i="19" t="170c" on="9e" s="90" frq="11900" n="RTI1"/>
+		<S i="1e" t="170c" on="9e" s="90" frq="11900" n="Tele Sahel"/>
 		<S i="65" t="170c" on="9e" s="90" frq="11900" n="TFM Senegal"/>
+	</Bouquet>
+	<Bouquet name="[E009.0] SISAL">
+		<S i="712" t="1" on="64" s="90" frq="11823" n="SISAL 1"/>
+		<S i="726" t="1" on="64" s="90" frq="11823" n="SISAL 3"/>
+		<S i="730" t="1" on="64" s="90" frq="11823" n="SISAL 4"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] sisal">
 		<S i="744" t="1" on="64" s="90" frq="11823" n="Euronews"/>
@@ -279,10 +285,9 @@
 		<S i="762" t="1" on="64" s="90" frq="11823" n="Italy Service 5"/>
 		<S i="73a" t="1" on="64" s="90" frq="11823" n="SISAL 5"/>
 	</Bouquet>
-	<Bouquet name="[E009.0] SISAL">
-		<S i="712" t="1" on="64" s="90" frq="11823" n="SISAL 1"/>
-		<S i="726" t="1" on="64" s="90" frq="11823" n="SISAL 3"/>
-		<S i="730" t="1" on="64" s="90" frq="11823" n="SISAL 4"/>
+	<Bouquet name="[E009.0] TELEDIFFUSION DU CONGO">
+		<S i="160" t="19c8" on="9e" s="90" frq="12034" n="RADIO CONGO"/>
+		<S i="15f" t="19c8" on="9e" s="90" frq="12034" n="TELE CONGO HD"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] TRACE">
 		<S i="17" t="170c" on="9e" s="90" frq="11900" n="RTB TV"/>
